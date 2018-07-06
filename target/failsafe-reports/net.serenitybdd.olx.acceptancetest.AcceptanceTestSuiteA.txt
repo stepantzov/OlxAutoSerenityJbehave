@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.serenitybdd.olx.acceptancetest.AcceptanceTestSuiteA
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 110.241 sec - in net.serenitybdd.olx.acceptancetest.AcceptanceTestSuiteA

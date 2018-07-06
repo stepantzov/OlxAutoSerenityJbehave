@@ -1,0 +1,8 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Jul 06 17:17:17 EEST 2018
+stories/LoginOlx3.story=31000
+stories/LoginOlx.story=45000
+threads=1
+total=109000
+stories/LoginOlx2.story=33000
+threadAverage=109000

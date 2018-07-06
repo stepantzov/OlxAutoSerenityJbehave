@@ -1,0 +1,11 @@
+net\serenitybdd\olx\pageActions\MainPageActions.class
+net\serenitybdd\olx\acceptancetest\AcceptanceTestSuiteB.class
+net\serenitybdd\olx\steps\loginSteps\LoginSteps.class
+net\serenitybdd\olx\acceptancetest\AcceptanceTestSuiteC.class
+net\serenitybdd\olx\pages\MyProfilePage.class
+net\serenitybdd\olx\junitStory\LoginOlx.class
+net\serenitybdd\olx\pages\FacebookLoginPage.class
+net\serenitybdd\olx\pageActions\LoginPageActions.class
+net\serenitybdd\olx\steps\LoginDefinition.class
+net\serenitybdd\olx\acceptancetest\AcceptanceTestSuiteA.class
+net\serenitybdd\olx\pages\MainPage.class
