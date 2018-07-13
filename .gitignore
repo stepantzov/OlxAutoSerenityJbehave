@@ -34,5 +34,4 @@ lib/
 
 !/README.md
 
-.gitignore
 src/test/java/net/serenitybdd/olx/steps/serenity/
